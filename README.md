@@ -1,5 +1,5 @@
 # Create a Wasm-based LLM app for financial analysts
-As part of application process, I have completed the pre-test mentioned in the project description and submitted the same in the Cover Letter with all other required documents. Please refer below list of contents to go through the pre-test.
+As part of application process, I have completed the pre-test mentioned in the project description and submitted the same in the Cover Letter with all other required documents. 
 
 ```
 System Specification
